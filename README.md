@@ -1,17 +1,19 @@
 # MLDM_Unibo\_public
  Machine Learning and Data Mining course for University of Bologna
 
-[Prof. Claudio Sartori mailto://claudio.sartori@unibo.it](mailto://claudio.sartori@unibo.it)
+Prof. Claudio Sartori <claudio.sartori@unibo.it>
 
-[Tutor Andrea Gurioli mailto://andrea.gurioli5@unibo.it](mailto://andrea.gurioli5@unibo.it]
+Tutor Andrea Gurioli <andrea.gurioli5@unibo.it>  
+Tutor Alberto Genovese <alberto.genovese5@studio.unibo.it>
 
- Contains:
+###### Contains
 
  - presentations used in class
  - lab activities
  - reading materials 
 
-Structure
+###### Structure
+
 - DataMining
   -  Class slides
   -  Support materials
@@ -20,4 +22,4 @@ Structure
   - Lab - notebooks and data used for the lab activities
   - Support materials
 
-The materials will be updated weekly according to the lectures scheduled 
+The materials will be added and updated weekly according to the lectures scheduled 
