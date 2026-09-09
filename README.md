@@ -3,8 +3,7 @@ Machine Learning and Data Mining course for University of Bologna
 
 Prof. Claudio Sartori <claudio.sartori@unibo.it>
 
-Tutor Andrea Gurioli <andrea.gurioli5@unibo.it>  
-Tutor Alberto Genovese <alberto.genovese5@studio.unibo.it>
+Tutor TBD
 
 ###### Contains
 
